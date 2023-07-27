@@ -99,8 +99,8 @@ or as wadl
         	beanConfig.setHost("localhost:8080");
         	beanConfig.setBasePath("/");
         	beanConfig.setDescription("Sample");
-        	beanConfig.setContact("VIIGit");
-        	beanConfig.setResourcePackage("ch.vii.git.swagger.sample.rest");
+        	beanConfig.setContact("chaturanand");
+        	beanConfig.setResourcePackage("com.jaxrs.restapi.rest");
         	beanConfig.setPrettyPrint(true);
         	beanConfig.setScan(true);
     	}
