@@ -1,0 +1,5 @@
+spring:
+  application:
+    version: 0.0.1-SNAPSHOT
+    build:
+      timestamp: 20230727-1207
